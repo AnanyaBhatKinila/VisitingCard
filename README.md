@@ -1,2 +1,2 @@
 # VisitingCard
- A basic visiting card application which holds an image and the details of the person and his designation.![VisitingCard](https://github.com/AnanyaBhatKinila/VisitingCard/assets/84276793/52bfc1eb-64ea-4fc6-bf24-b4868dc4f348)
+ A basic visiting card application which holds an image and the details of the person and his designation.![VisitingCard1](https://github.com/AnanyaBhatKinila/VisitingCard/assets/84276793/2d2ce3a3-d3ee-4a2d-8bd3-d9ccb8441ae0)
